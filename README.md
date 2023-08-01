@@ -1,2 +1,1 @@
-# GPT-Chat
-ChatGPT API
+#Readme
